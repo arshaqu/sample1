@@ -1,1 +1,1 @@
-"# sample1 its not just a sample it my work" 
+"# sample1 its not just a sample work of myown." 
